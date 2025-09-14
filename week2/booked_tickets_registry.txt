@@ -1,0 +1,6 @@
+{"first_name":"test","surname":"test","flight":"test","price":2.5}
+{"first_name":"test","surname":"test","flight":"test","price":2.5}
+{"first_name":"test","surname":"test","flight":"test","price":2.5}
+{"first_name":"test","surname":"test","flight":"test","price":2.5}
+{"first_name":"Irek","surname":"Blach","flight":"London","price":799.0}
+{"first_name":"t","surname":"t","flight":"t","price":2.5}
